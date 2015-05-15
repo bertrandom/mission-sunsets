@@ -4,5 +4,7 @@ Script to generate download links for all the timelapses from the Mission Sunset
 
 ## usage
 
+```
 npm install
 node index
+```
